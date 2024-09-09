@@ -1,3 +1,5 @@
+<span id="topo"></span>
+
 # :package: Gerenciador de Estoque :package:
 
 ## :mag_right: Índice
@@ -7,8 +9,14 @@
     <a href="#tecnologias">Tecnologias</a> |
 </p>
 
-#🎯 Objetivo
+
+<span id='objetivo'></span>
+
+# 🎯 Objetivo
 O aplicativo visa facilitar o gerenciamento de estoque de uma empresa, possuindo funcionalidades de cadastro e venda de produtos.
+
+
+<span id='relatorios'></span>
 
 ## :pushpin: Relatórios
 Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando em "Ver entrega". 
@@ -21,7 +29,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando 
 | 04      | 18/11/2024 | ❌ Não Iniciada | |
 | 05      | 06/12/2024 | ❌ Não Iniciada | |
 
-<span id='tecnologias'>
+<span id='tecnologias'></span>
 
 ## 💻 Tecnologias
 Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
@@ -29,3 +37,6 @@ Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execuçã
 - [Git](https://git-scm.com): Versionamento
 - [GitHub](https://github.com/): Armazenamento de código e documentação
 - [React-Native](https://reactnative.dev): Linguagem de programação do frontend
+
+
+→ [Voltar ao topo](#topo)
