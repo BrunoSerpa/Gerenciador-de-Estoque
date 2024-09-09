@@ -54,6 +54,10 @@ O DoD (Definição de Feito) desta entrega é um protótipo das telas que terão
 
 <span id='mvp'></span>
 
-Aqui se encontra o vídeo do MVP da entrega.
+<h2>📑 MVP da Sprint: </h2>
+
+Aqui se encontra o video do MVP da entrega.
+
+![MVP 1](https://github.com/user-attachments/assets/29a7a621-0db3-4317-a284-226f756cc42c)
 
 → [Voltar ao topo](#topo)
