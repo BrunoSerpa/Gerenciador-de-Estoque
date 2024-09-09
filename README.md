@@ -1,32 +1,59 @@
+<span id="topo"></span>
+
 # Gerenciador-de-Estoque
 Gerenciador de Estoque
 
 ## :mag_right: Índice
 <p align='center'>
-    <a href="#objetivo">Objetivo</a> |
-    <a href="#relatorios">Relatórios</a> |
-    <a href="#tecnologias">Tecnologias</a> |
+    <a href="#objetivo">Objetivo da entrega</a> | 
+    <a href="#requisitos">Requisitos da entrega</a> | 
+    <a href="#backlog">Backlog da entrega</a> |
+    <a href="#dor">DoR da entrega</a> |
+    <a href="#dod">DoD da entrega</a> |
+    <a href="#mvp">MVP da entrega</a> |
 </p>
 
-#🎯 Objetivo
-O aplicativo visa facilitar o gerenciamento de estoque de uma empresa, possuindo funcionalidades de cadastro e venda de produtos.
+<span id='objetivo'></span>
 
-## :pushpin: Relatórios
-Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando em "Ver entrega". 
+# 🎯 Objetivo
+Fazer um protótipo inicial do aplicativo, contendo as telas de cadastros, listas e atualização dos dados do aplicativo.
 
-| Entrega |    Data    |            Status           | Relatório |
-|:-------:|:----------:|:---------------------------:|:---------:|
-| 01      | 09/09/2024 | :construction: Em Progresso |  |
-| 02      | 04/10/2024 | ❌ Não Iniciada | |
-| 03      | 25/10/2024 | ❌ Não Iniciada | |
-| 04      | 18/11/2024 | ❌ Não Iniciada | |
-| 05      | 06/12/2024 | ❌ Não Iniciada | |
+<span id='requisitos'></span>
 
-<span id='tecnologias'>
+## :clipboard: Requisitos
 
-## 💻 Tecnologias
-Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
-- [Figma](https://www.figma.com): Prototipagem
-- [Git](https://git-scm.com): Versionamento
-- [GitHub](https://github.com/): Armazenamento de código e documentação
-- [React-Native](https://reactnative.dev): Linguagem de programação do frontend
+### Funcionais:
+
+:pushpin: Fazer o Wireframe
+
+
+### Não Funcionais:
+
+:pushpin: Fazer o Backlog.
+
+<span id='backlog'></span>
+
+<h2>📑 Backlog da entrega: </h2>
+
+
+<img src="doc/assets/entrega1.png" width="750px">
+
+→ [Voltar ao topo](#topo)
+
+<span id='dor'></span>
+
+<h2>📑 DoR da entrega: </h2>
+
+O DoR (Definição de pronto) dessa entrega é o [Wireframe](./doc/wireframe.pdf).
+
+<span id='dod'></span>
+
+<h2>📑 DoD da entrega: </h2>
+
+O DoD (Definição de Feito) desta entrega é um protótipo das telas que terão no aplicativo.
+
+<span id='mvp'></span>
+
+Aqui se encontra o vídeo do MVP da entrega.
+
+→ [Voltar ao topo](#topo)
