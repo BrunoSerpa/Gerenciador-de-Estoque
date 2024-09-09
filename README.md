@@ -1,5 +1,4 @@
-# Gerenciador-de-Estoque
-Gerenciador de Estoque
+# :package: Gerenciador de Estoque :package:
 
 ## :mag_right: Índice
 <p align='center'>
