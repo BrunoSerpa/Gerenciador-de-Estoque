@@ -44,7 +44,7 @@ Fazer um protótipo inicial do aplicativo, contendo as telas de cadastros, lista
 
 <h2>📑 DoR da entrega: </h2>
 
-O DoR (Definição de pronto) dessa entrega é o [Wireframe](./doc/wireframe.pdf).
+O DoR (Definição de pronto) dessa entrega é o [Wireframe](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-1/doc/Wireframe.pdf).
 
 <span id='dod'></span>
 
@@ -59,5 +59,5 @@ O DoD (Definição de Feito) desta entrega é um protótipo das telas que terão
 Aqui se encontra o video do MVP da entrega.
 
 ![MVP 1](https://github.com/user-attachments/assets/29a7a621-0db3-4317-a284-226f756cc42c)
-
+[Navegue pelo Protótipo](https://www.figma.com/proto/F2dw2mDABftkWDn4I2uDD9/Gerenciamento-de-Estoque?node-id=2-51&starting-point-node-id=2%3A51).
 → [Voltar ao topo](#topo)
