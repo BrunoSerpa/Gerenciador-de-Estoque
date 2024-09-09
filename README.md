@@ -36,7 +36,7 @@ Fazer um protótipo inicial do aplicativo, contendo as telas de cadastros, lista
 <h2>📑 Backlog da entrega: </h2>
 
 
-<img src="doc/assets/entrega1.png" width="750px">
+<img src="https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-1/doc/assets/Entrega1.png" width="750px">
 
 → [Voltar ao topo](#topo)
 
