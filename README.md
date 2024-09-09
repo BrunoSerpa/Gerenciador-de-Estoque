@@ -6,6 +6,7 @@
 <p align='center'>
     <a href="#objetivo">Objetivo</a> |
     <a href="#relatorios">Relatórios</a> |
+    <a href="#backlog">Backlog total</a> |
     <a href="#tecnologias">Tecnologias</a> |
 </p>
 
@@ -28,6 +29,13 @@ Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando 
 | 03      | 25/10/2024 | ❌ Não Iniciada | |
 | 04      | 18/11/2024 | ❌ Não Iniciada | |
 | 05      | 06/12/2024 | ❌ Não Iniciada | |
+
+
+<span id='backlog'></span>
+
+## 📑 Backlog Total
+![backlog](https://github.com/user-attachments/assets/66dd543d-5381-4870-a7e6-af5b88582a20)
+
 
 <span id='tecnologias'></span>
 
