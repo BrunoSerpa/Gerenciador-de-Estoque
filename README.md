@@ -1,50 +1,68 @@
 <span id="topo"></span>
 
-# :package: Gerenciador de Estoque :package:
+# Gerenciador-de-Estoque
+Gerenciador de Estoque
 
 ## :mag_right: Índice
 <p align='center'>
-    <a href="#objetivo">Objetivo</a> |
-    <a href="#relatorios">Relatórios</a> |
-    <a href="#backlog">Backlog total</a> |
-    <a href="#tecnologias">Tecnologias</a> |
+    <a href="#objetivo">Objetivo da entrega</a> | 
+    <a href="#requisitos">Requisitos da entrega</a> | 
+    <a href="#backlog">Backlog da entrega</a> |
+    <a href="#dor">DoR da entrega</a> |
+    <a href="#dod">DoD da entrega</a> |
+    <a href="#mvp">MVP da entrega</a> |
 </p>
-
 
 <span id='objetivo'></span>
 
 # 🎯 Objetivo
-O aplicativo visa facilitar o gerenciamento de estoque de uma empresa, possuindo funcionalidades de cadastro e venda de produtos.
+Fazer o cadastrar, listar e deletar dos produtos, itens e cadastros.
 
+<span id='requisitos'></span>
 
-<span id='relatorios'></span>
+## :clipboard: Requisitos
 
-## :pushpin: Relatórios
-Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando em "Ver entrega". 
+:pushpin: Fazer o Cadastrar Produto;
 
-| Entrega |    Data    |            Status           | Relatório |
-|:-------:|:----------:|:---------------------------:|:---------:|
-| 01      | 09/09/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-1)|
-| 02      | 04/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-2) | |
-| 03      | 25/10/2024 | :construction: Em Progresso | |
-| 04      | 18/11/2024 | ❌ Não Iniciada | |
-| 05      | 06/12/2024 | ❌ Não Iniciada | |
+:pushpin: Fazer o Cadastrar Item;
 
+:pushpin: Fazer o Listar Cadastros;
+
+:pushpin: Fazer o Listar Itens;
+
+:pushpin: Fazer o Listar Produtos;
+
+:pushpin: Fazer o Excluir Cadastro;
+
+:pushpin: Fazer o Excluir Produto;
+
+:pushpin: Fazer o Excluir Item;
 
 <span id='backlog'></span>
 
-## 📑 Backlog Total
-![backlog](https://github.com/user-attachments/assets/66dd543d-5381-4870-a7e6-af5b88582a20)
+<h2>📑 Backlog da entrega: </h2>
 
+<img src="https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-1/doc/assets/Entrega2.png" width="750px">
 
-<span id='tecnologias'></span>
+→ [Voltar ao topo](#topo)
 
-## 💻 Tecnologias
-Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
-- [Figma](https://www.figma.com): Prototipagem
-- [Git](https://git-scm.com): Versionamento
-- [GitHub](https://github.com/): Armazenamento de código e documentação
-- [React-Native](https://reactnative.dev): Linguagem de programação do frontend
+<span id='dor'></span>
 
+<h2>📑 DoR da entrega: </h2>
 
+O DoR (Definição de pronto) dessa entrega é o as rotas do back-end e modelo de dados utilizados na US02-US07 estiverem prontos.
+
+<span id='dod'></span>
+
+<h2>📑 DoD da entrega: </h2>
+
+O DoD (Definição de Feito) desta entrega é as listas, os cadastros e as exclusões funcionarem no [Front-End](https://github.com/BrunoSerpa/Gerenciador-de-Estoque-Front).
+
+<span id='mvp'></span>
+
+<h2>📑 MVP da Sprint: </h2>
+
+Aqui se encontra o video do MVP da entrega.
+
+![MVP 2](https://github.com/user-attachments/assets/29a7a621-0db3-4317-a284-226f756cc42c).
 → [Voltar ao topo](#topo)
