@@ -64,5 +64,7 @@ O DoD (Definição de Feito) desta entrega é as listas, os cadastros e as exclu
 
 Aqui se encontra o video do MVP da entrega.
 
-![MVP 2](https://github.com/user-attachments/assets/29a7a621-0db3-4317-a284-226f756cc42c).
+![MVP 2](https://github.com/user-attachments/assets/2b08ec45-ff64-4092-a9ac-9f534afccdc8)
+
+
 → [Voltar ao topo](#topo)
