@@ -1,0 +1,9 @@
+[submodule "Back-end"]
+	path = Back-end
+	url = https://github.com/brunoserpa/gerenciador-de-estoque-back
+[submodule "Banco"]
+	path = Banco
+	url = https://github.com/brunoserpa/gerenciador-de-estoque-bd
+[submodule "Front-end"]
+	path = Front-end
+	url = https://github.com/brunoserpa/gerenciador-de-estoque-front
