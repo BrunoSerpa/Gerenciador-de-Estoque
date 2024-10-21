@@ -42,7 +42,7 @@ Fazer o cadastrar, listar e deletar dos produtos, itens e cadastros.
 
 <h2>📑 Backlog da entrega: </h2>
 
-<img src="https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-2/doc/assets/Entrega2.png" width="750px">
+<img src="https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-2/doc/assets/Entrega2.jpg?raw=true" width="750px">
 
 → [Voltar ao topo](#topo)
 
