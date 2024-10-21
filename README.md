@@ -22,20 +22,19 @@ O aplicativo visa facilitar o gerenciamento de estoque de uma empresa, possuindo
 ## :pushpin: Relatórios
 Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando em "Ver entrega". 
 
-| Entrega |    Data    |            Status           | Relatório |
-|:-------:|:----------:|:---------------------------:|:---------:|
-| 01      | 09/09/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-1)|
-| 02      | 04/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-2) | |
-| 03      | 25/10/2024 | :construction: Em Progresso | |
-| 04      | 18/11/2024 | ❌ Não Iniciada | |
-| 05      | 06/12/2024 | ❌ Não Iniciada | |
+| Entrega |    Data    |            Status            |                                     Relatório                                      |
+| :-----: | :--------: | :--------------------------: | :--------------------------------------------------------------------------------: |
+|   01    | 09/09/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-1) |
+|   02    | 04/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-2) |
+|   03    | 25/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-3) |
+|   04    | 18/11/2024 | :construction: Em Progresso  |                                                                                    |
+|   05    | 06/12/2024 |        ❌ Não Iniciada      |                                                                                    |
 
 
 <span id='backlog'></span>
 
 ## 📑 Backlog Total
 ![backlog](https://github.com/user-attachments/assets/66dd543d-5381-4870-a7e6-af5b88582a20)
-
 
 <span id='tecnologias'></span>
 
