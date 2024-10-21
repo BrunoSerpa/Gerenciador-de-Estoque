@@ -34,7 +34,7 @@ Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando 
 <span id='backlog'></span>
 
 ## 📑 Backlog Total
-![backlog](https://github.com/user-attachments/assets/66dd543d-5381-4870-a7e6-af5b88582a20)
+![backlog](https://github.com/user-attachments/assets/d322c22a-774a-471f-9719-60b5c4d1d732)
 
 <span id='tecnologias'></span>
 
