@@ -1,49 +1,68 @@
 <span id="topo"></span>
 
-# :package: Gerenciador de Estoque :package:
+# Gerenciador-de-Estoque
+Gerenciador de Estoque
 
 ## :mag_right: Índice
 <p align='center'>
-    <a href="#objetivo">Objetivo</a> |
-    <a href="#relatorios">Relatórios</a> |
-    <a href="#backlog">Backlog total</a> |
-    <a href="#tecnologias">Tecnologias</a> |
+    <a href="#objetivo">Objetivo da entrega</a> | 
+    <a href="#requisitos">Requisitos da entrega</a> | 
+    <a href="#backlog">Backlog da entrega</a> |
+    <a href="#dor">DoR da entrega</a> |
+    <a href="#dod">DoD da entrega</a> |
+    <a href="#mvp">MVP da entrega</a> |
 </p>
-
 
 <span id='objetivo'></span>
 
 # 🎯 Objetivo
-O aplicativo visa facilitar o gerenciamento de estoque de uma empresa, possuindo funcionalidades de cadastro e venda de produtos.
+Escolher quais colunas aparecerem nas tabelas. Fazer as funções de busca
 
+<span id='requisitos'></span>
 
-<span id='relatorios'></span>
+## :clipboard: Requisitos
 
-## :pushpin: Relatórios
-Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando em "Ver entrega". 
+:pushpin: Fazer o Filtrar Campos na Tabela de Itens;
 
-| Entrega |    Data    |            Status            |                                     Relatório                                      |
-| :-----: | :--------: | :--------------------------: | :--------------------------------------------------------------------------------: |
-|   01    | 09/09/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-1) |
-|   02    | 04/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-2) |
-|   03    | 25/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-3) |
-|   04    | 18/11/2024 | :construction: Em Progresso  |                                                                                    |
-|   05    | 06/12/2024 |        ❌ Não Iniciada      |                                                                                    |
+:pushpin: Fazer o Filtrar Campos na Tabela de Produtos;
 
+:pushpin: Fazer o Filtrar Campos na Tabela de Histórico de Cadastros;
+
+:pushpin: Fazer o Filtrar Tipo de Histórico;
+
+:pushpin: Fazer o Buscar Nome de Produtos;
+
+:pushpin: Fazer o Buscar Nome de Histórico de Cadastros;
+
+:pushpin: Fazer o Filtrar por Data de Início e Fim no cadastro de Itens;
 
 <span id='backlog'></span>
 
-## 📑 Backlog Total
-![backlog](https://github.com/user-attachments/assets/d322c22a-774a-471f-9719-60b5c4d1d732)
+<h2>📑 Backlog da entrega: </h2>
 
-<span id='tecnologias'></span>
+<img src="https://github.com/BrunoSerpa/Gerenciador-de-Estoque/blob/Entrega-4/doc/assets/Entrega4.jpg?raw=true" width="750px">
 
-## 💻 Tecnologias
-Foram usadas as seguintes ferramentas, linguagens e tecnologias para a execução do projeto:
-- [Figma](https://www.figma.com): Prototipagem
-- [Git](https://git-scm.com): Versionamento
-- [GitHub](https://github.com/): Armazenamento de código e documentação
-- [React-Native](https://reactnative.dev): Linguagem de programação do frontend
+→ [Voltar ao topo](#topo)
+
+<span id='dor'></span>
+
+<h2>📑 DoR da entrega: </h2>
+
+O DoR (Definição de pronto) dessa entrega é os filtros de campos das US12 e US14 e as funções de buscar pelo nome das US13 e US15.
+
+<span id='dod'></span>
+
+<h2>📑 DoD da entrega: </h2>
+
+O DoD (Definição de Feito) desta entrega é todos os filtros de campos, funções de buscas e outros filtros funcionarem no [Front-End](https://github.com/BrunoSerpa/Gerenciador-de-Estoque-Front).
+
+<span id='mvp'></span>
+
+<h2>📑 MVP da Sprint: </h2>
+
+Aqui se encontra o video do MVP da entrega.
+
+<!-- ![MVP 4](https://github.com/user-attachments/assets/2b08ec45-ff64-4092-a9ac-9f534afccdc8) -->
 
 
 → [Voltar ao topo](#topo)
