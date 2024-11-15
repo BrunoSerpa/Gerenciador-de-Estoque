@@ -27,8 +27,8 @@ Na tabela abaixo é possível visualizar os resultados de cada Entrega clicando 
 |   01    | 09/09/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-1) |
 |   02    | 04/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-2) |
 |   03    | 25/10/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-3) |
-|   04    | 18/11/2024 | :construction: Em Progresso  |                                                                                    |
-|   05    | 06/12/2024 |        ❌ Não Iniciada      |                                                                                    |
+|   04    | 18/11/2024 | :heavy_check_mark: Concluída | [Ver entrega](https://github.com/BrunoSerpa/Gerenciador-de-Estoque/tree/Entrega-4) |
+|   05    | 06/12/2024 | :construction: Em Progresso  |                                                                                    |
 
 
 <span id='backlog'></span>
